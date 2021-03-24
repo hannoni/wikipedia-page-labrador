@@ -10,3 +10,8 @@ body {
 a {
   color: #000;
 }
+
+nav ul {
+  list-style: none url(//:0); /* Remove bullets, without removing semantics */
+  padding-left: 0; /* Remove left padding for flush left appearance */
+}
