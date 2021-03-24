@@ -1,0 +1,10 @@
+/* Layout breakpoint without media query */
+
+body {
+  max-width: 48rem;
+  padding: 0 1rem;
+  margin: 1rem auto;
+  
+a {
+  color: #000;
+}
