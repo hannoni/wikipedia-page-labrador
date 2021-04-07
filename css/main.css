@@ -1,17 +1,55 @@
+html {
+  font: 100%/1.15 sans-serif;
+  font-size: 100%;
+  line-height: 1.15;
+  font-family: sans-serif;
+}
+
 /* Layout breakpoint without media query */
 
 body {
+  font-family: "nunito";
   max-width: 48rem;
   padding: 0 1rem;
   margin: 1rem auto;
+  
+/* Responsive images */
+  
+nav ul {
+  list-style: none url(//:0); /* Remove bullets, without removing semantics */
+  list-style-type: none;
+  list-style-image: url(//:0);
+  list-style-position: outside;
+  padding-left: 0; /* Remove left padding for flush left appearance */
+}
+
+nav li {
+  margin-top: 1rem; 
+}  
+  
+h2 {
+  font-family: "Dela Gothic One", "Arial Bold", "Verdana", sans-serif;
+}
+  
+p {
+  font: 1.05em/1.5 Georgia, serif;
+}  
+  
+/* Switch to horizontal layout */
+  
+ nav ul {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    gap: 1rem;
+  }
+  
+  nav li {
+     margin-top: 0;
+  }
   
 /* Image */  
   
 a {
   color: #000;
-}
-
-nav ul {
-  list-style: none url(//:0); /* Remove bullets, without removing semantics */
-  padding-left: 0; /* Remove left padding for flush left appearance */
 }
