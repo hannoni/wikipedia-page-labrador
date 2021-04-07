@@ -49,6 +49,11 @@ p {
   nav li {
      margin-top: 0;
   }
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
   
 /* Image */  
   
