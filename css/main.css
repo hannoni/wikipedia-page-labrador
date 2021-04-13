@@ -55,16 +55,21 @@ p {
   
 /* Switch to horizontal layout */
   
+@media (max-width: 60em) {
+  
+
 nav ul {
     display: grid;
     grid-auto-flow: column;
     justify-content: center;
     gap: 1rem;
-  }
+}
+  
+}  
   
 nav li {
      margin-top: 0;
-  }
+}
 
 nav a {
   text-decoration: none;
@@ -82,3 +87,4 @@ img {
 a {
   color: #000;
 }
+
