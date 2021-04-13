@@ -1,8 +1,7 @@
 html {
-  font: 100%/1.15 sans-serif;
+  font: 100%/1.15;
   font-size: 100%;
   line-height: 1.15;
-  font-family: sans-serif;
 }
 
 /* Layout breakpoint without media query */
