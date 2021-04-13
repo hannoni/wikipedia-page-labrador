@@ -8,7 +8,8 @@ html {
 /* Layout breakpoint without media query */
 
 body {
-  font-family: "nunito";
+  font-family: "Lexend";
+  background-color: #caecf4;
   max-width: 48rem;
   padding: 0 1rem;
   margin: 1rem auto;
@@ -23,30 +24,35 @@ nav ul {
   list-style-position: outside;
   padding-left: 0; /* Remove left padding for flush left appearance */
   background-color: #3b3bed;
+  font-family: "Poppins";
 }
 
 nav li {
   margin-top: 1rem; 
-}  
+}
   
 h2 {
-  font-family: "Dela Gothic One", "Arial Bold", "Verdana", sans-serif;
+  font-family: "Fredoka One";
+}
+
+h3 {
+  font-family: "Fredoka One";
 }
   
 p {
-  font: 1.05em/1.5 Georgia, serif;
+  font: 1.05em/1.5 "Lexend";
 }  
   
 /* Switch to horizontal layout */
   
- nav ul {
+nav ul {
     display: grid;
     grid-auto-flow: column;
     justify-content: start;
     gap: 1rem;
   }
   
-  nav li {
+nav li {
      margin-top: 0;
   }
 
