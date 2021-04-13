@@ -29,6 +29,10 @@ nav ul {
 nav li {
   margin-top: 1rem; 
 }
+
+nav a {
+  padding: 1rem;
+}
   
 h2 {
   font-family: "Fredoka One";
