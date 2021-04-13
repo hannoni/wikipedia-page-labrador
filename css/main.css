@@ -1,13 +1,12 @@
 html {
   font: 100%/1.15;
   font-size: 100%;
-  line-height: 1.15;
 }
 
 /* Layout breakpoint without media query */
 
 body {
-  font-family: "Lexend";
+  font-family: Lexend;
   background-color: #e9f2f4;
   max-width: 48rem;
   padding: 0 1rem;
@@ -32,15 +31,15 @@ nav li {
 }
   
 h2 {
-  font-family: "Fredoka One";
+  font-family: Fredoka One;
 }
 
 h3 {
-  font-family: "Fredoka One";
+  font-family: Fredoka One;
 }
   
 p {
-  font: 1.05em/1.5 "Lexend";
+  font: 1.05em/1.5 Lexend;
   line-height: 1.75;
 }  
   
