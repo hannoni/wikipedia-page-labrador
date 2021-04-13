@@ -57,6 +57,12 @@ nav a {
   
 /* Image */  
   
+img {
+  width: auto;
+  max-width: 50%;
+  height: auto;
+}
+
 a {
   color: #000;
 }
