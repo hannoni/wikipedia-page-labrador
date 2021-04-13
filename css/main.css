@@ -55,7 +55,7 @@ p {
   
 /* Switch to horizontal layout */
   
-@media (max-width: 60em) {
+@media (min-width: 60em) {
   
 
 nav ul {
