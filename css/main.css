@@ -47,12 +47,15 @@ h2 {
   font-family: "Fredoka One";
   margin-top: 2rem;
 }
-
-  
+ 
 p {
   font: 1.05em/1.5 Lexend;
   line-height: 2;
-}  
+}
+
+.list li {
+  margin-top: 1rem;
+}
   
 /* Switch to horizontal layout */
   
