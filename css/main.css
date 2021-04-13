@@ -11,7 +11,7 @@ body {
   max-width: 48rem;
   padding: 0 1rem;
   margin: 1rem auto;
-  line-height: 1.75;
+  line-height: 2;
 }
   
 /* Responsive images */
@@ -40,7 +40,7 @@ h3 {
   
 p {
   font: 1.05em/1.5 Lexend;
-  line-height: 1.75;
+  line-height: 2;
 }  
   
 /* Switch to horizontal layout */
@@ -61,35 +61,6 @@ nav a {
   color: #fff;
 }
 
-ul.tableofcontents {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #1c75bc;
-}
-
-ul.tableofcontents li {float: left;}
-
-ul.tableofcontents li a {
-  display: block;
-  color: #ffffff;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul.topnav li a:hover:not(.active) {background-color: #2b3990;}
-
-ul.topnav li a.active {background-color: #1c75bc;}
-
-ul.topnav li.right {float: right;}
-
-@media screen and (max-width: 600px) {
-  ul.topnav li.right, 
-  ul.topnav li {float: none;}
-}
-  
 /* Image */  
   
 img {
