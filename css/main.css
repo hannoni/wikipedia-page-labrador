@@ -52,7 +52,7 @@ p {
 nav ul {
     display: grid;
     grid-auto-flow: column;
-    justify-content: start;
+    justify-content: center;
     gap: 1rem;
   }
   
