@@ -16,7 +16,7 @@ body {
   
 /* Responsive images */
   
-ul.tableofcontents {
+nav ul {
   list-style: none url(//:0); /* Remove bullets, without removing semantics */
   list-style-type: none;
   list-style-image: url(//:0);
