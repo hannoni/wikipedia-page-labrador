@@ -23,7 +23,7 @@ nav ul {
   list-style-position: outside;
   padding-left: 0; /* Remove left padding for flush left appearance */
   background-color: #1C75BC;
-  font-family: "Poppins";
+  font-family: Poppins;
 }
 
 nav li {
