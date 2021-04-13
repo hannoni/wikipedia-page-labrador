@@ -33,6 +33,10 @@ nav li {
 nav a {
   padding: 1rem;
 }
+
+nav a:hover {
+  background-color: #2b3990;
+}
   
 h1 {
   font-family: "Fredoka One";
