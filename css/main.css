@@ -132,11 +132,16 @@ img {
 }
 
 .three {
-  float: center;
+  text-align: center;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }  
 
+.nose {
+  float: right;
+  margin-left: 1rem;
+}
+  
 a {
   color: #000;
 }
