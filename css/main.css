@@ -78,7 +78,7 @@ p {
 }
 
 figcaption {
-  font: 1.05em/1.5 Poppins Light 300 italic;
+  font: italic 300 1.05em/1.5 "Poppins Light";
 }
   
 /* Switch to horizontal layout */
