@@ -117,9 +117,10 @@ img {
 }
 
 .john {
-  text-align; right;
+  float: right;
   width: 50%;
-
+}
+  
 a {
   color: #000;
 }
