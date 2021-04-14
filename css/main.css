@@ -43,6 +43,10 @@ h1 {
   font-family: "Fredoka One";
 }
 
+.description {
+  margin-bottom: -1.5rem;
+}
+
 h2 {
   font-family: "Fredoka One";
   margin-top: 2.85rem;
