@@ -150,7 +150,7 @@ img {
 .guide {
   float: right;
   margin-left: 1rem;
-  margin-top: -6rem;
+  width: 50%;
 }
 
 .sitting {
@@ -169,12 +169,13 @@ img {
   float: right;
   margin-left: 1rem;
   width: 20%;
+  margin-top: -6rem;
 }
 
 .jake {
   float: right;
   margin-left: 1rem;
-  margin-top: -6rem
+  margin-top: -6rem  
 }  
   
 a {
