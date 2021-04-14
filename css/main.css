@@ -131,6 +131,12 @@ img {
   margin-left: 1rem;
 }
 
+.three {
+  float: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}  
+
 a {
   color: #000;
 }
