@@ -118,8 +118,12 @@ img {
 
 .john {
   float: right;
-  width: 50%;
+  width: 20%;
 }
+
+.ben {
+  float: right;
+}  
   
 a {
   color: #000;
