@@ -140,6 +140,7 @@ img {
 .nose {
   float: right;
   margin-left: 1rem;
+  min-width: 100em;
 }
   
 a {
