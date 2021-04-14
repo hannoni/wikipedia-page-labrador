@@ -41,6 +41,7 @@ nav a:hover {
   
 h1 {
   font-family: "Fredoka One";
+  color: #262262;
 }
 
 .description {
@@ -50,6 +51,7 @@ h1 {
 h2 {
   font-family: "Fredoka One";
   margin-top: 2.85rem;
+  color: #2e3192;
 }
  
 p {
