@@ -126,6 +126,11 @@ img {
   float: none;
 }  
   
+.line {
+  float: right;
+  margin-left: 1rem;
+}
+
 a {
   color: #000;
 }
