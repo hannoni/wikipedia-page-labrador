@@ -76,6 +76,10 @@ p {
 .list li {
   margin-top: 1rem;
 }
+
+figcaption {
+  font: 1.05em/1.5 Lexend bold italic;
+}
   
 /* Switch to horizontal layout */
   
@@ -168,7 +172,7 @@ img {
 .jake {
   float: right;
   margin-left: 1rem;
-  width: 50%
+  width: 50%;
 }  
   
 a {
