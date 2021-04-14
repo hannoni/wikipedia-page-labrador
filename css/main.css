@@ -140,6 +140,7 @@ img {
 .nose {
   float: right;
   margin-left: 1rem;
+  width: 50%
 }
 
 .guide {
